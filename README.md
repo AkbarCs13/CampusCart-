@@ -1,6 +1,6 @@
-# StudentTech
+# CampusCart
 
-StudentTech is a student-focused e-commerce platform designed to provide university and college students with affordable, curated technology accessories, essentials, and study gear. Tailored specifically to the academic lifestyle and student budgets, the platform streamlines the discovery and purchasing experience for essential hardware, peripherals, and everyday tech accessories.
+CampusCart is a student-focused e-commerce platform designed to provide university and college students with affordable, curated campus essentials, study supplies, lifestyle products, and everyday student necessities. Tailored specifically to the academic lifestyle and student budgets, the platform streamlines the discovery and purchasing experience for essential products required throughout campus life.
 
 ## Project Status
 
@@ -11,8 +11,10 @@ StudentTech is a student-focused e-commerce platform designed to provide univers
 ## Repository Structure
 
 ```text
-StudentTech/
-├── docs/           # Documentation and sprint architectural deliverables
-├── .gitignore      # Git ignore configuration
-└── README.md       # Project overview and status
-```
+CampusCart/
+
+├── docs/          # Documentation and sprint architectural deliverables
+
+├── .gitignore     # Git ignore configuration
+
+└── README.md      # Project overview and status
